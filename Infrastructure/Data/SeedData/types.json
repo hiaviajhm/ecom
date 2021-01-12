@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "RAM memory"
+  },
+  {
+    "Id": 2,
+    "Name": "SSD Drives"
+  },
+  {
+    "Id": 3,
+    "Name": "M.2 Drives"
+  },
+  {
+    "Id": 4,
+    "Name": "CPU Fans"
+  }
+]

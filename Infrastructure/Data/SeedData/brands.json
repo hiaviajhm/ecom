@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Samsung"
+  },
+  {
+    "Id": 2,
+    "Name": "Corsair"
+  },
+  {
+    "Id": 3,
+    "Name": "Adata"
+  },
+  {
+    "Id": 4,
+    "Name": "Sandisk"
+  },
+  {
+    "Id": 5,
+    "Name": "Kingston"
+  },
+  {
+    "Id": 6,
+    "Name": "Patriot"
+  }
+]
