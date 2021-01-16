@@ -9,10 +9,10 @@
   },
   {
     "Id": 3,
-    "Name": "M.2 Drives"
+    "Name": "M.2 NVME Drives"
   },
   {
     "Id": 4,
-    "Name": "CPU Fans"
+    "Name": "CPU Cooling Fans"
   }
 ]

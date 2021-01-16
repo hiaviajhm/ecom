@@ -22,5 +22,21 @@
   {
     "Id": 6,
     "Name": "Patriot"
+  },
+  {
+    "Id": 7,
+    "Name": "Thermaltake"
+  },
+  {
+    "Id": 8,
+    "Name": "Cooler Master"
+  },
+  {
+    "Id": 9,
+    "Name": "AMD Wraith"
+  },
+  {
+    "Id": 10,
+    "Name": "Enermac"
   }
 ]
